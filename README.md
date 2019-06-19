@@ -1,0 +1,2 @@
+# SwampCooler
+Swamp Cooler Control
